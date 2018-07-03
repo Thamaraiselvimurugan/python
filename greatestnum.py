@@ -1,0 +1,6 @@
+a=input()
+b=input()
+c=input()
+d=max(a,b,c)
+print("the largest number is:")
+print(d)
